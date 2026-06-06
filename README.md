@@ -4,6 +4,10 @@
 
 Get personalized guidance from Socrates, Nietzsche, Marcus Aurelius, and 5 other historical thinkers — each with a distinct voice grounded in their actual philosophical writings via RAG.
 
+<p align="center">
+  <img src="docs/TalkSage_overview_1.png" width="48%">
+  <img src="docs/TalkSage_overview_2.png" width="48%">
+</p>
 ---
 
 ## Why TalkSage
